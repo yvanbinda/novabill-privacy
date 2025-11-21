@@ -69,3 +69,36 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions about this Privacy Policy, please contact us at: yvanbinda@gmail.com
 
+---
+
+## Data Deletion Instructions
+
+At Novabill, we are committed to your privacy and data control. In accordance with Google Play Store policies, this page provides instructions on how to request the deletion of your account data.
+
+### How to Delete Your Data
+
+The easiest and most secure way to delete your account and all associated data is by using the self-serve deletion feature built directly into the Novabill app.
+
+**Steps to Delete Your Account:**
+1.  Open the Novabill app on your device.
+2.  Navigate to the **'Profile'** screen.
+3.  Tap on the **'Delete Account'** button.
+4.  You will be asked to confirm your decision. Please be aware that this action is irreversible.
+5.  Upon confirmation, your account and all related data will be queued for permanent deletion.
+
+### What Data is Deleted?
+
+When you delete your account, the following information is permanently removed from our live systems:
+
+*   **Personal Data:** Your full name, email address, phone number, and address.
+*   **User-Generated Content:** All invoices you have created, your client list, saved items, company logo, and digital signature.
+*   **Account Information:** Your user credentials and app settings.
+
+### What Data is Retained?
+
+We do not retain any personal or user-generated data after an account deletion request is completed. Anonymous analytics data (which cannot be tied to you) may be retained for statistical purposes.
+
+Please note that it may take up to 30 days for your data to be fully removed from all our backup and logging systems.
+
+If you have lost access to your account and cannot use the in-app deletion feature, please contact us for assistance at **yvanbinda@gmail.com**.
+

@@ -46,9 +46,8 @@ Your data is stored securely using Google Firebase services (Firestore and Fireb
 
 We use third-party services to operate our app. These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-- **Google Firebase (including Firestore, Firebase Authentication, Firebase Storage, and Firebase Analytics):** Provides the backend infrastructure, database, authentication, and analytics for our Service. [Link to Google's Privacy Policy]
-- **Google AdMob:** Used to display advertisements in the free version of the app. AdMob may collect and use data to provide personalized ads. [Link to Google's Ad Policy]
-
+- **Google Firebase (including Firestore, Firebase Authentication, Firebase Storage, and Firebase Analytics):** Provides the backend infrastructure, database, authentication, and analytics for our Service. **https://policies.google.com/privacy?hl=en-US**
+- **Google AdMob:** Used to display advertisements in the free version of the app. AdMob may collect and use data to provide personalized ads. **https://support.google.com/adspolicy/answer/6008942?hl=en**
 **5. In-App Purchases**
 
 For our Premium subscriptions, we use the in-app purchase services provided by the Google Play Store or Apple App Store. We do not collect or store your payment card details. That information is provided directly to the respective app store's payment processors.
@@ -67,7 +66,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 **9. Contact Us**
 
-If you have any questions about this Privacy Policy, please contact us at: yvanbinda@gmail.com
+If you have any questions about this Privacy Policy, please contact us at: contact.novabill@gmail.com
 
 ---
 
@@ -100,5 +99,5 @@ We do not retain any personal or user-generated data after an account deletion r
 
 Please note that it may take up to 30 days for your data to be fully removed from all our backup and logging systems.
 
-If you have lost access to your account and cannot use the in-app deletion feature, please contact us for assistance at **yvanbinda@gmail.com**.
+If you have lost access to your account and cannot use the in-app deletion feature, please contact us for assistance at **contact.novabill@gmail.com**.
 
